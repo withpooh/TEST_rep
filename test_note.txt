@@ -6,3 +6,4 @@ git push origin master
 git status
 git add test_note.txt
 git commit -m "test commit"
+git push origin master
