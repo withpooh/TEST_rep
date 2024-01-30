@@ -2,8 +2,8 @@
 <img src="https://github.com/withpooh/TEST_rep/assets/82919961/9a421815-d333-4cce-9433-4b50d765ad74"> 
 
 ## Requirements
-nRF5 SDK v17.1.0
-nRF52-DK (PCA10040)
+nRF5 SDK v17.1.0  
+nRF52-DK (PCA10040)  
 VL53L0X ToF ranging sensor
 
 ## Hardware setup
