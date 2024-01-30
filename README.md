@@ -36,3 +36,19 @@ https://www.st.com/en/mems-and-sensors/lsm6dsl.html
 Driver  
 https://github.com/STMicroelectronics/STMems_Standard_C_drivers/tree/master/lsm6dsl_STdC
 
+## LPS25HB Demo
+
+## Requirements
+nRF5 SDK v17.1.0  
+nRF52-DK (PCA10040)  
+LPS25HB MEMS pressure sensor
+
+## Hardware setup
+Pinout 
+![image](https://github.com/withpooh/TEST_rep/assets/82919961/bd3c2cc2-5e29-463f-aa57-81d6a36497b4)
+
+## Resources
+Datasheet  
+https://www.st.com/en/mems-and-sensors/lps22hb.html
+Driver  
+https://github.com/STMicroelectronics/STMems_Standard_C_drivers/tree/master/lps22hb_STdC
