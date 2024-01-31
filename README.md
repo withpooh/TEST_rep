@@ -45,7 +45,7 @@ nRF52-DK (PCA10040)
 LPS25HB MEMS pressure sensor
 
 ## Hardware setup
-Pinout 
+Pinout  
 ![image](https://github.com/withpooh/TEST_rep/assets/82919961/bd3c2cc2-5e29-463f-aa57-81d6a36497b4)
 
 ## Resources
