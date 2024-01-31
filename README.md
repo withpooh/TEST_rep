@@ -37,6 +37,7 @@ Driver
 https://github.com/STMicroelectronics/STMems_Standard_C_drivers/tree/master/lsm6dsl_STdC
 
 ## LPS25HB Demo
+<img src="https://github.com/withpooh/TEST_rep/assets/82919961/7a16b226-cdf6-4b79-9c76-946170801888"> 
 
 ## Requirements
 nRF5 SDK v17.1.0  
